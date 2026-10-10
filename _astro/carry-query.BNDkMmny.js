@@ -1,0 +1,1 @@
+var e=e=>{let{search:t}=globalThis.location;for(let n of globalThis.document.querySelectorAll(e))n.search=t};export{e as t};
